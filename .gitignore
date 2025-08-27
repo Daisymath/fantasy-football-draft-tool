@@ -1,0 +1,36 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+build/
+dist/
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks
+notebooks/
+.ipynb_checkpoints
+testing_scripts/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Credentials / config
+*.json        
+*.yaml
+*.env
+secrets/
+
+# Logs
+*.log
