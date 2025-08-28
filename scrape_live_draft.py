@@ -99,7 +99,7 @@ while True:
                 sheet.update_cell(cell.row, 6, True)  # Drafted column is F (6)
                 # Update current pick counter in I1
                 sheet.update_acell("I1", current_pick)
-            except gspread.CellNotFound:
+            except gspread.exceptions.CellNotFound:
                 print(f"{player} not found in sheet!")
 
     time.sleep(5)  # check every 5 seconds
