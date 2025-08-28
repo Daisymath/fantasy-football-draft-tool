@@ -24,6 +24,14 @@ URL_draft = "https://fantasy.espn.com/football/"
 options = Options()
 options.page_load_strategy = 'none'
 #options.add_argument("--headless=new")
+options.add_argument("--ignore-certificate-errors")
+options.add_argument("--ignore-ssl-errors")
+options.add_argument("--disable-web-security")
+options.add_argument("--disable-gpu")  # sometimes helps with network crashes
+options.add_argument("--disable-dev-shm-usage")
+options.add_argument("--no-sandbox")
+options.add_argument("--log-level=3")  # suppress warnings/errors
+options.add_experimental_option("excludeSwitches", ["enable-logging"])
 driver = webdriver.Chrome(options=options)
 driver.get(URL_draft)
 time.sleep(2)

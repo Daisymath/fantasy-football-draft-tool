@@ -1,0 +1,169 @@
+Rank,Name,ADP,Pos
+1.0,Ja'Marr Chase,1.5,WR
+2.0,Bijan Robinson,2.8,RB
+3.0,Saquon Barkley,3.6,RB
+4.0,Justin Jefferson,4.9,WR
+5.0,Jahmyr Gibbs,5.1,RB
+6.0,CeeDee Lamb,6.8,WR
+7.0,Christian McCaffrey,7.9,RB
+8.0,Puka Nacua,10.2,WR
+9.0,Amon-Ra St. Brown,10.4,WR
+10.0,Malik Nabers,11.8,WR
+11.0,Ashton Jeanty,12.2,RB
+12.0,Derrick Henry,14.7,RB
+13.0,Nico Collins,15.1,WR
+14.0,De'Von Achane,16.6,RB
+15.0,Jonathan Taylor,18.5,RB
+16.0,Brian Thomas Jr.,18.7,WR
+17.0,A.J. Brown,19.3,WR
+18.0,Josh Jacobs,19.4,RB
+19.0,Josh Allen,20.6,QB
+20.0,Brock Bowers,21.2,TE
+21.0,Drake London,21.8,WR
+22.0,Bucky Irving,23.7,RB
+23.0,Lamar Jackson,24.4,QB
+24.0,Chase Brown,25.8,RB
+25.0,Trey McBride,27.1,TE
+26.0,Tee Higgins,27.7,WR
+27.0,Jayden Daniels,28.4,QB
+28.0,Jalen Hurts,29.5,QB
+29.0,Ladd McConkey,30.4,WR
+30.0,Kyren Williams,30.6,RB
+31.0,Tyreek Hill,31.3,WR
+32.0,James Cook,32.3,RB
+33.0,Joe Burrow,34.0,QB
+34.0,Davante Adams,35.3,WR
+35.0,George Kittle,36.9,TE
+36.0,Terry McLaurin,38.4,WR
+37.0,Jaxon Smith-Njigba,38.8,WR
+38.0,Alvin Kamara,39.7,RB
+39.0,Omarion Hampton,40.9,RB
+40.0,Mike Evans,45.1,WR
+41.0,Chuba Hubbard,45.6,RB
+42.0,Garrett Wilson,45.7,WR
+43.0,Patrick Mahomes,47.7,QB
+44.0,Kenneth Walker III,48.3,RB
+45.0,Marvin Harrison Jr.,49.4,WR
+46.0,James Conner,49.7,RB
+47.0,DK Metcalf,50.0,WR
+48.0,Sam LaPorta,50.1,TE
+49.0,TreVeyon Henderson,50.3,RB
+50.0,Xavier Worthy,50.4,WR
+51.0,Breece Hall,56.2,RB
+52.0,Baker Mayfield,57.4,QB
+53.0,DJ Moore,59.1,WR
+54.0,D'Andre Swift,59.5,RB
+55.0,Zay Flowers,60.3,WR
+56.0,T.J. Hockenson,62.0,TE
+57.0,Courtland Sutton,63.0,WR
+58.0,Travis Kelce,63.3,TE
+59.0,David Montgomery,65.8,RB
+60.0,Rashee Rice,67.1,WR
+61.0,Calvin Ridley,70.3,WR
+62.0,DeVonta Smith,71.0,WR
+63.0,Isiah Pacheco,72.9,RB
+64.0,George Pickens,73.0,WR
+65.0,Jaylen Waddle,73.1,WR
+66.0,Jameson Williams,73.6,WR
+67.0,Jerry Jeudy,73.7,WR
+68.0,Bo Nix,74.0,QB
+69.0,Aaron Jones Sr.,75.2,RB
+70.0,Tony Pollard,77.7,RB
+71.0,David Njoku,78.2,TE
+72.0,Mark Andrews,80.1,TE
+73.0,Travis Hunter,80.8,WR
+74.0,RJ Harvey,81.6,RB
+75.0,Tetairoa McMillan,81.7,WR
+76.0,Rome Odunze,83.6,WR
+77.0,Kyler Murray,87.0,QB
+78.0,Evan Engram,88.2,TE
+79.0,Brock Purdy,89.3,QB
+80.0,Tyrone Tracy Jr.,91.6,RB
+81.0,Matthew Golden,92.1,WR
+82.0,Jakobi Meyers,92.1,WR
+83.0,Cooper Kupp,93.2,WR
+84.0,Chris Olave,95.7,WR
+85.0,Jaylen Warren,97.2,RB
+86.0,Stefon Diggs,98.4,WR
+87.0,Tyler Warren,99.8,TE
+88.0,Emeka Egbuka,101.8,WR
+89.0,Justin Herbert,101.9,QB
+90.0,Michael Pittman Jr.,102.2,WR
+91.0,Jacory Croskey-Merritt,102.2,RB
+93.0,Chris Godwin Jr.,103.5,WR
+94.0,Kaleb Johnson,103.5,RB
+95.0,Deebo Samuel,105.4,WR
+97.0,Joe Mixon,106.9,RB
+99.0,Austin Ekeler,107.6,RB
+100.0,J.K. Dobbins,109.1,RB
+101.0,Dak Prescott,109.9,QB
+102.0,Ricky Pearsall,110.7,WR
+105.0,Javonte Williams,116.3,RB
+106.0,Khalil Shakir,116.5,WR
+107.0,Tucker Kraft,117.8,TE
+108.0,Jordan Addison,118.8,WR
+109.0,Caleb Williams,119.0,QB
+110.0,Rhamondre Stevenson,119.5,RB
+111.0,Colston Loveland,119.9,TE
+112.0,Keon Coleman,120.2,WR
+113.0,Cam Skattebo,121.2,RB
+115.0,Jauan Jennings,122.2,WR
+117.0,Travis Etienne Jr.,122.7,RB
+118.0,Justin Fields,123.3,QB
+119.0,Jared Goff,125.1,QB
+121.0,Keenan Allen,126.6,WR
+123.0,Quinshon Judkins,132.9,RB
+124.0,Jordan Mason,133.6,RB
+125.0,Jayden Reed,134.2,WR
+127.0,Dalton Kincaid,134.6,TE
+128.0,Tank Bigsby,135.9,RB
+129.0,Rashid Shaheed,136.9,WR
+130.0,Dallas Goedert,137.1,TE
+131.0,Drake Maye,137.7,QB
+132.0,Jake Ferguson,138.6,TE
+133.0,Jordan Love,139.0,QB
+134.0,J.J. McCarthy,139.1,QB
+135.0,Zach Charbonnet,140.0,RB
+136.0,Darnell Mooney,140.2,WR
+137.0,Josh Downs,140.4,WR
+138.0,Jayden Higgins,140.4,WR
+141.0,Kyle Pitts Sr.,141.3,TE
+142.0,C.J. Stroud,141.7,QB
+145.0,Rachaad White,147.8,RB
+147.0,Tyjae Spears,149.1,RB
+148.0,Nick Chubb,149.7,RB
+150.0,Adam Thielen,151.2,WR
+153.0,Trey Benson,153.3,RB
+154.0,Brian Robinson Jr.,155.4,RB
+155.0,Zach Ertz,156.4,TE
+156.0,Jaydon Blue,156.9,RB
+157.0,Hunter Henry,157.0,TE
+158.0,Xavier Legette,157.2,WR
+159.0,Braelon Allen,157.6,RB
+161.0,Jerome Ford,159.3,RB
+163.0,Brandon Aiyuk,159.4,WR
+164.0,Tyler Allgeier,159.9,RB
+165.0,Matthew Stafford,160.5,QB
+166.0,Tua Tagovailoa,160.5,QB
+167.0,Marvin Mims Jr.,161.4,WR
+168.0,Cedric Tillman,162.5,WR
+169.0,Najee Harris,162.9,RB
+170.0,Trevor Lawrence,163.0,QB
+171.0,Hollywood Brown,163.6,WR
+172.0,Cam Ward,164.2,QB
+173.0,Bhayshul Tuten,165.6,RB
+174.0,Wan'Dale Robinson,166.1,WR
+175.0,Christian Kirk,166.1,WR
+176.0,Rashod Bateman,166.2,WR
+177.0,Michael Penix Jr.,166.3,QB
+178.0,Jaylen Wright,166.5,RB
+179.0,Darren Waller,166.5,TE
+182.0,Jonnu Smith,167.0,TE
+186.0,Luther Burden III,167.4,WR
+189.0,Cade Otton,168.0,TE
+190.0,Bryce Young,168.2,QB
+191.0,Ray Davis,168.2,RB
+192.0,Aaron Rodgers,168.3,QB
+197.0,Isaiah Likely,168.8,TE
+198.0,Pat Freiermuth,168.8,TE
+200.0,Ollie Gordon II,168.9,RB

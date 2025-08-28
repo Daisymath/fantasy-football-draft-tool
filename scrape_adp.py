@@ -15,10 +15,10 @@ URL_adp = "https://fantasy.espn.com/football/livedraftresults"
 #Set up options
 options = Options()
 options.page_load_strategy = 'none'
-options.add_argument("--headless=new")
+#options.add_argument("--headless=new")
 driver = webdriver.Chrome(options=options)
 driver.get(URL_adp)
-time.sleep(4)
+time.sleep(10)
 
 #Scrape ADP
 pages = [0,1,2,3]
@@ -29,7 +29,7 @@ for i in pages:
     for j in range(2,52):
         temp = rows[j].text
         #The injury tag changes the format of the text in the tag
-        if temp.split('\n')[2] in ['Q','SSPD','O']:
+        if temp.split('\n')[2] in ['Q','SSPD','O','IR']:
             temp_data = temp.split('\n')[:2]
             temp_data.extend(temp.split('\n')[3:6])
         else:
@@ -84,4 +84,10 @@ num_rows = len(adp_data)
 num_cols = df_adp_upload.shape[1]
 last_col_letter = chr(64 + num_cols)
 
-sheet.update(f"A1:{last_col_letter}{num_rows}", adp_data)
+# Named arguments (recommended for clarity)
+sheet.update(
+    range_name=f"A1:{last_col_letter}{num_rows}",
+    values=adp_data
+)
+
+#sheet.update(f"A1:{last_col_letter}{num_rows}", adp_data)
