@@ -17,8 +17,8 @@ Helps fantasy players track live draft results, compare ADP vs PPG value, and ra
 
 ## Demo
 
-![Draft Tool Screenshot](assets/draft_tool_screenshot.png)  
-*Optional GIF or Loom/YouTube link demonstrating live draft updates.*
+![Draft Tool Screenshot](assets/draft_tool.gif)  
+
 
 ---
 
