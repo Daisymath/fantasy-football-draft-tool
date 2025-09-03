@@ -11,7 +11,6 @@ Helps fantasy players track live draft results, compare ADP vs PPG value, and ra
 - **Real-Time Draft Tracking:** Connects to ESPN draft room via Selenium to update picks dynamically.
 - **Tier & Value Analysis:** Calculates ADP vs PPG differences and identifies top-tier players.
 - **Interactive Google Sheets Tool:** Dashboard updates automatically based on live picks.
-- **Read-Only Demo:** A sample Google Sheet is provided for demonstration without exposing live data.
 
 ---
 
