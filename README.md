@@ -14,6 +14,13 @@ Helps fantasy players track live draft results, compare ADP vs PPG value, and ra
 
 ---
 
+## ETL
+
+![ETL_Diagram](assets/ETL_Diagram.png)  
+
+
+---
+
 ## Demo
 
 ![Draft Tool Screenshot](assets/draft_tool.gif)  
